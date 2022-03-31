@@ -1,2 +1,0 @@
-# SimpleCardGame
-first swift project
