@@ -4,12 +4,12 @@
 ### 1. 이지현 [git]
 #### velog 링크
 https://velog.io/@wlgus4110/0.-git%EC%9D%B4%EB%9E%80
-![[./img/Pasted image 20220331191543.png]]
+![./img/Pasted image 20220331191543.png]
 
 ### 2. 이재민 [git]
 #### velog 링크
 https://velog.io/@afg9327/GIT1.%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC
-![[./img/Pasted image 20220331191925.png]]
+![./img/Pasted image 20220331191925.png]
 
 ### 3. 장예준 [Flutter]
 
@@ -40,7 +40,7 @@ Center가 부모가 되고 Container가 자식이 된다는 표현으로 child �
 단위:LP(50LP = 1.2cm)
 
 ### 4. 김다은 [간단한 카드게임 구현]
-![[./img/Screen Shot 2022-03-31 at 6.53.43 PM.png]]
+![./img/Screen Shot 2022-03-31 at 6.53.43 PM.png]
 
 ### 5. 권재현 [코틀린 예제]
 #### github 링크
